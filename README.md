@@ -162,8 +162,11 @@ weighted avg       0.79      0.80      0.77      3206
 ## Acknowledgement
 ### Resources used
 [Pytorch Documentation for the "nn" framework](https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
 [Evaluatio Metrics](https://www.datasciencesmachinelearning.com/2018/11/confusion-matrix-accuracy-precision.html)
+
 [Working with geopandas for using .geojson files](python-graph-gallery.com/map-read-geojson-with-python-geopandas/)
+
 [Using Rasterio for ".tif"](https://rasterio.readthedocs.io/en/stable/quickstart.html)
 
 #### Usage of AI
